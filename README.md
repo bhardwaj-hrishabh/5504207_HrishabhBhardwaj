@@ -1,3 +1,3 @@
 # 5504207_Hrishabh-Bhardwaj
 
-![alt text](Screenshot.png)
+![alt text](SDLC/Screenshot.png)
